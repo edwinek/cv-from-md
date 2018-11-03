@@ -32,14 +32,13 @@ I'm a human.
 ## Experience
 
 #### June 2017 - present
-#### Senior Thing Does - Another company
+#### Senior Thing Doer - Another company
 * Did some more senior stuff
 
 #### January 2015 - June 2017
 #### Thing Doer - A nice company
 * Did some stuff
 * Did some other stuff
-
 
 ## Qualifications / Awards / Certifications
 * Doing Things BEng (hons), University of Life
